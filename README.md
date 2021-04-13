@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning Reactjs
-- 💬 Ask me about Python, Django
+- 🌱 I’m currently learning **Reactjs**
+- 💬 Ask me about **Python, Django**
 - 📫 How to reach me: ans.bilal2000@gmail.com
