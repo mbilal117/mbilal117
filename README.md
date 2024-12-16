@@ -1,10 +1,11 @@
-# 👨‍💻 Welcome to My GitHub Profile  
+<h1 align="center">Hi 👋, I'm Muhammad Ans Bilal</h1>
+<h3 align="center">Turning Ideas Into Scalable Solutions</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat) 
 ---
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbilal117" alt="ans" /></a> </p>
 
-## 🧑‍💼 About Me  
-**👋 Hi, I'm Ans Bilal!**  
+ 
 - 🚀 **Accomplished Software Engineer** with 14+ years of experience in **Application Development** and **DevOps**.  
 - 🔥 Specialized in **Python** and **Django**, with a passion for building scalable solutions.  
 - 🌐 **Certified Azure Solution Architect**, skilled in backend and frontend development.  
