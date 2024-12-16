@@ -6,5 +6,6 @@
 Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning **AI**
-- 💬 Ask me about **Python, Django**
+- 👯 I’m looking to collaborate in Designing Solutions
+- 💬 Ask me about **Python, Django, Automation**
 - 📫 How to reach me: ans.bilal2000@gmail.com
