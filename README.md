@@ -8,7 +8,16 @@
 - 🚀 **Accomplished Software Engineer** with 14+ years of experience in **Application Development** and **DevOps**.  
 - 🔥 Specialized in **Python** and **Django**, with a passion for building scalable solutions.  
 - 🌐 **Certified Azure Solution Architect**, skilled in backend and frontend development.  
-- 💡 Enthusiast of emerging technologies like **GenAI**, **GraphQL**, and **Elasticsearch**.  
+- 💡 Enthusiast of emerging technologies like **GenAI**, **GraphQL**, and **Elasticsearch**.
+
+## 🏆 GitHub Stats & Rankings  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Rank-Top%205%25-brightgreen?style=for-the-badge" alt="GitHub Rank" height="40" />
+  <img src="https://img.shields.io/badge/Stack%20Overflow%20Reputation-10k+-orange?style=for-the-badge" alt="Stack Overflow Reputation" height="40" />
+  <img src="https://img.shields.io/badge/Top%20Python%20Developer%20Badge-💻-blue?style=for-the-badge" alt="Top Python Developer" height="40" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-Active-blueviolet?style=for-the-badge" alt="Open Source Contributor" height="40" />
+</p>
 
 ## 🛠️ Tech Stack  
 
