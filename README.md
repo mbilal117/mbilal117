@@ -41,18 +41,13 @@
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" height="40" />
 </p>
 
-## 📊 GitHub Stats  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
-
 ## 📬 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YourLinkedInProfile" target="_blank">
+  <a href="[https://linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/ansbilal/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:ans.bilal2000@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" />
   </a>
   <a href="https://github.com/YourGitHubUsername" target="_blank">
@@ -60,9 +55,6 @@
   </a>
   <a href="https://twitter.com/YourTwitterHandle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="40" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="40" />
   </a>
 </p>
 
