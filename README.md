@@ -44,7 +44,7 @@
 ## 📬 Connect with Me  
 
 <p align="center">
-  <a href="[https://linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/ansbilal/)" target="_blank">
+  <a href="https://www.linkedin.com/in/ansbilal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
   </a>
   <a href="mailto:ans.bilal2000@gmail.com">
