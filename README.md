@@ -41,20 +41,6 @@
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" height="40" />
 </p>
 
-
-## 📂 Featured Projects  
-
-### 🔗 [Project 1: AI-Powered Automation Suite](#)  
-An intelligent automation solution utilizing **Python**, **Django**, and **GenAI**, streamlining enterprise workflows.  
-
-### 🔗 [Project 2: Real-Time Dashboard for Telemetry](#)  
-Developed a real-time monitoring dashboard using **ReactJS**, **Grafana**, and **Elasticsearch** for large-scale data visualization.  
-
-### 🔗 [Project 3: Scalable Microservices Architecture](#)  
-Built a distributed microservices system using **Docker**, **Kubernetes**, and **FastAPI** to handle high-load scenarios.  
-
----
-
 ## 📊 GitHub Stats  
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
