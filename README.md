@@ -43,11 +43,10 @@
 
 ## 📬 Connect with Me  
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ansbilal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mfarhan133" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/8718274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2998007" height="30" width="40" /></a>
-  <a href="https://twitter.com/ansbilal117" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30" height="40" />
+  <a href="https://twitter.com/ansbilal117" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" height="40"/>
   </a>
 </p>
 
