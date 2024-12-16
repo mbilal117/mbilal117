@@ -1,9 +1,6 @@
 # 👨‍💻 Welcome to My GitHub Profile  
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat)  
-![Followers](https://img.shields.io/github/followers/YourGitHubUsername?style=social)  
-![Stars](https://img.shields.io/github/stars/YourGitHubUsername?style=social)  
-
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat) 
 ---
 
 ## 🧑‍💼 About Me  
